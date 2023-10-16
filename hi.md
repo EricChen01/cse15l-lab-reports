@@ -1,6 +1,6 @@
 Hi! :)
 
-*Hello*
+*Hello*<br>
 **HI THERE**
 # CSE 15L
 ## Lab Reports
